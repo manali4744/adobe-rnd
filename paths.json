@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/manali4744/:/",
-    "/content/manali4744/configuration:/.helix/config.json",
-    "/content/manali4744/metadata:/metadata.json"
+    "/content/aem/:/",
+    "/content/aem/configuration:/.helix/config.json",
+    "/content/aem/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/manali4744/"
+    "/content/aem/"
   ]
 }
